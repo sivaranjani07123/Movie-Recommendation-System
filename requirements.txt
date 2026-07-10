@@ -1,0 +1,8 @@
+Movie_Recommendation_System/
+│── app.py
+│── train_model.py
+│── requirements.txt   ← HERE
+│── movies.pkl
+│── templates/
+│── static/
+│── dataset/
